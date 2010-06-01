@@ -1,0 +1,1 @@
+This utility was more of an experiment in replicating the application seen on lifehacker that slows the mouse cursor down over scrollbars in order to hit them easier. This code could be modified to work a lot better, by for example using a mouse hook instead of a basic timer, but the code for changing the mouse sensitivity is there at least.

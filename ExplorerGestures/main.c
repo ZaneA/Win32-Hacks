@@ -1,10 +1,6 @@
 /*
  *	ExplorerGestures
  *	Enables simple Middle click gestures in Windows Explorer
- *	and probably god knows what else, sorry if this messes with your apps etc
- *	Written at ~2:32 in the AM, by Zane Ashby (zane.a@demonastery.org)
- *	
- *	Licensed under the WTFPL, maybe you'll learn something from this code :)
  */
 
 /* Windows defines and includes */
